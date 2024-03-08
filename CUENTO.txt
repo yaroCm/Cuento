@@ -2,5 +2,5 @@ CUENTO
 Soy Jordi 
 Soy Yanet
 Soy Luis
-Soy Pacovich
+Soy Pacovich (GPG signed)
 Soy Luis Ruiz
